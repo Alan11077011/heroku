@@ -1,11 +1,11 @@
 {
-    "name": "V2Ray",
+    "name": "alan112",
     "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["alan112"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "0580a281-99f2-4f5c-9545-8e813d81c35d"
         },
         "WSPATH": {
             "description": "WebSocket Path",
